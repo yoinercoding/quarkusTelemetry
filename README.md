@@ -1,4 +1,4 @@
-# Practicas Apache Camel
+# Practicas Quarkus, OpenTelemetry, Docker
 
 Saludos :D
 
